@@ -1,0 +1,57 @@
+.landingBox-wrapper{
+    display:grid;
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    margin: 50px;
+    padding: 20px;
+    row-gap:10px;
+}
+
+.landingBox-h1{
+    font-size:20px;
+    padding-bottom: 14px;
+}
+
+.landingBox-box{
+    border-radius: 18px;
+    border: 1px solid rgb(59, 59, 59);
+    padding: 40px 40px 40px 30px;
+    margin-right: 100px;
+}
+
+.landingBox-modifier{
+    font-size:16px;
+    font-weight:700;
+}
+
+.landingBox-title{
+    font-size:32px;
+    font-weight: 900;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.landingBox-content{
+    font-size:15px;
+
+}
+
+.landingBox-button{
+    height: 50px;
+    width:100%;
+    margin-top:14px;
+    font-size:16px;
+    font-weight: bold;
+    color:rgb(59, 59, 59);
+    background-color: #eabebe;
+    border: 1px solid rgb(59, 59, 59);
+    border-radius:12px;
+}
+
+.landingBox-button:hover{
+    background-color: #b78e8e;
+    color: #fff;
+}
+
+@media only screen and (max-width: 768px){
+    
+}

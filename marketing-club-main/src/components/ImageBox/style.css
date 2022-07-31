@@ -1,0 +1,23 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.imageBox_wrapper{
+    margin: 20px;
+    border-radius: 30px;
+}
+
+.imageBox-textBox{
+    padding: 20px 10px 20px 10px;
+}
+
+.imageBox-title{
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(67, 64, 64);
+
+}
+
+.imageBox-content{
+    padding-top: 15px;
+}

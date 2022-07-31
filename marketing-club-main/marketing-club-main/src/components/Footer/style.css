@@ -1,0 +1,30 @@
+.footer{
+    background-color: rgb(37, 37, 37);
+    height: 200px;
+}
+
+.footer-contact{
+    padding-top: 50px;
+    padding-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 300px;
+    color: rgb(243, 243, 243);
+    font-size: 20px;
+    border-bottom: 0.5px solid #fff;
+}
+
+.footer-content{
+    color: rgb(243, 243, 243);
+    font-size: 12px;
+    padding: 10px 50px 0 50px;
+}
+
+.footer-right{
+    padding-top: 17px;
+    align-items: center;
+    text-align: center;
+    color: rgb(243, 243, 243);
+    background-color: rgb(26, 26, 26);
+    height: 50px;
+    font-size: 13px;
+}

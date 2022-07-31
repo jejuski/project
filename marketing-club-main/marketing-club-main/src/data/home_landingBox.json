@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "header": "🌱 코딩을 시작해 보고 싶다면?",
+        "modifier": "학습지처럼 코딩 습관을 길러주는",
+        "title": "띵동코딩",
+        "content": "매주 2시간 일상에 코딩을 더해보세요. 꾸준히 하다보면 1년 내로 간단한 외주 개발을 할 수 있는 사람이 됩니다.",
+        "column" : "1 / 3",
+        "backgroundColor" : "#cfd8dc",
+        "link" : "/class"
+    },
+    {
+        "id": 2,
+        "header": "🎠 서로 모르는 점을 질문하고 소통하고 싶다면?",
+        "modifier": "한 번에 제대로 코딩의 핵심을 배우는",
+        "title": "마케팅 클럽 커뮤니티",
+        "content": "5주간 주 5시간의 투자로, 당신에게 꼭 필요한 코딩을 이해하고 쓸 수 있는 사람으로 거듭나게 됩니다.",
+        "column" : "2 / 4",
+        "backgroundColor" : "#ffffff",
+        "link" : "/community"
+    },
+    {
+        "id": 3,
+        "header": "🐳 취업 혹은 창업을 하고 싶다면?",
+        "modifier": "개발자로 커리어를 시작하고 싶다면",
+        "title": "데이터 분석",
+        "content": "99일간 9 to 9, 팀 프로젝트 기반의 자기주도적 성장을 통해 현업에 바로 뛰어들 수 있는 개발자로 거듭나세요.",
+        "column" : "1 / 3",
+        "backgroundColor" : "#9ea7aa",
+        "link": "/myPage"
+    }
+]
